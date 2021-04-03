@@ -63,7 +63,7 @@ Javascript pieces of code to make you discover new exciting features, useful tip
 19. [How to implement a local EventEmitter? (part 1.)](snippets/19-implement-eventemitter-part1.js)
 20. [How to implement a local EventEmitter? (part 2.)](snippets/20-implement-eventemitter-part2.specjs)
 21. [Using "_" in numbers for better readability](snippets/21-tips-underscore-number.js)
-
+22. [Array: .map() vs .filter() vs .reduce()](snippets/22-map-vs-filter-vs-reduce.js)
 
 <!-- CONTRIBUTING -->
 ## 🌈 Contributing
@@ -73,8 +73,9 @@ Contributions are what make the open source community such an amazing place to b
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+4. If you're writing a new snippet, do not forget to update the <a href="#usage">Minutes listing</a> section accordingly
+5. Push to the Branch (`git push origin feature/AmazingFeature`)
+6. Open a Pull Request
 
 
 
