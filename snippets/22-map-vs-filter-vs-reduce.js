@@ -1,3 +1,6 @@
+// Minutes of Javascript #22 - Array: .map() vs .filter() vs .reduce()
+// Source: https://github.com/olivierloverde/minutes-of-javascript/blob/main/snippets/22-map-vs-filter-vs-reduce.js
+
 const arr = [26, 86, 45, 69, 25, 45]; // Taking random array
 
 // Map function
