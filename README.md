@@ -64,6 +64,7 @@ Javascript pieces of code to make you discover new exciting features, useful tip
 20. [How to implement a local EventEmitter? (part 2.)](snippets/20-implement-eventemitter-part2.specjs)
 21. [Using "_" in numbers for better readability](snippets/21-tips-underscore-number.js)
 22. [Array: .map() vs .filter() vs .reduce()](snippets/22-map-vs-filter-vs-reduce.js)
+23. [Generator function* and yield usage](snippets/23-generator-function-yield-usage.js)
 
 <!-- CONTRIBUTING -->
 ## 🌈 Contributing
