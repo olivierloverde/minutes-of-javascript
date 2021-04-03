@@ -61,7 +61,7 @@ Javascript pieces of code to make you discover new exciting features, useful tip
 17. [Breaking in nested loops](snippets/17-breaking-nested-loops.js)
 18. [EventEmitter](snippets/18-eventemitter.js)
 19. [How to implement a local EventEmitter? (part 1.)](snippets/19-implement-eventemitter-part1.js)
-20. [How to implement a local EventEmitter? (part 2.)](snippets/20-implement-eventemitter-part2.specjs)
+20. [How to implement a local EventEmitter? (part 2.)](snippets/20-implement-eventemitter-part2.spec.js)
 21. [Using "_" in numbers for better readability](snippets/21-tips-underscore-number.js)
 22. [Array: .map() vs .filter() vs .reduce()](snippets/22-map-vs-filter-vs-reduce.js)
 23. [Generator function* and yield usage](snippets/23-generator-function-yield-usage.js)
