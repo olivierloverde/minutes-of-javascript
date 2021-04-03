@@ -1,4 +1,4 @@
-// Minutes of Javascript #24 - Use switch/case statement with numeric ranges
+// Minutes of Javascript #24 - Usage of switch (true), an example with numeric ranges
 
 // switch (true) may seem absurd but you can match against values as well as expressions. 
 // Expressions will be evaluated before matching, so any expression that evals to true will be matched.
