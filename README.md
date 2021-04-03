@@ -57,7 +57,7 @@ Javascript pieces of code to make you discover new exciting features, useful tip
 13. [Proxies Part 3. makeReadOnly example](snippets/13-proxies-part-3.js)
 14. [flat() and flatMap()](snippets/14-flat-flatmap.js)
 15. [ Fun with Emoji!](snippets/15-fun-with-emoji.js)
-16. [Some bizarre things in Javascript](snippets/16-bizarre-javascript)
+16. [Some bizarre things in Javascript](snippets/16-bizarre-javascript.js)
 17. [Breaking in nested loops](snippets/17-breaking-nested-loops.js)
 18. [EventEmitter](snippets/18-eventemitter.js)
 19. [How to implement a local EventEmitter? (part 1.)](snippets/19-implement-eventemitter-part1.js)
