@@ -23,12 +23,12 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#usage">Minutes listing</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#-about-the-project">About The Project</a></li>
+    <li><a href="#-minutes-listing">Minutes listing</a></li>
+    <li><a href="#-contributing">Contributing</a></li>
+    <li><a href="#-license">License</a></li>
+    <li><a href="#%EF%B8%8F-contact">Contact</a></li>
+    <li><a href="#-acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -73,7 +73,7 @@ Contributions are what make the open source community such an amazing place to b
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. If you're writing a new snippet, do not forget to update the <a href="#usage">Minutes listing</a> section accordingly
+4. If you're writing a new snippet, do not forget to update the <a href="#-minutes-listing">Minutes listing</a> section accordingly
 5. Push to the Branch (`git push origin feature/AmazingFeature`)
 6. Open a Pull Request
 
