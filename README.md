@@ -65,7 +65,7 @@ Javascript pieces of code to make you discover new exciting features, useful tip
 21. [Using "_" in numbers for better readability](snippets/21-tips-underscore-number.js)
 22. [Array: .map() vs .filter() vs .reduce()](snippets/22-map-vs-filter-vs-reduce.js)
 23. [Generator function* and yield usage](snippets/23-generator-function-yield-usage.js)
-24. [Usage of switch (true), an example with numeric ranges](snippets/24-use-switch-case-with-numeric-ranges.js)
+24. [Usage of switch (true), an example with numeric ranges](snippets/24-usage-of-switch-with-numeric-ranges.js)
 
 <!-- CONTRIBUTING -->
 ## 🌈 Contributing
