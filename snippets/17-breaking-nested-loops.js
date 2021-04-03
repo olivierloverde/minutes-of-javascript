@@ -13,7 +13,7 @@ for (const i of arr1) {
     for (const j of arr2) {
         loop3:
         for (const k of arr3) {
-            console.info(i,j,k); // returns only 1 1 1 as the loop is stopped bu the `break loop1` statement
+            console.info(i,j,k); // returns only 1 1 1 as the loop is stopped by the `break loop1` statement
             break loop1; 
         }  
     }   
