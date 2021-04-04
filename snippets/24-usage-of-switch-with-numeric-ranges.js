@@ -1,4 +1,5 @@
 // Minutes of Javascript #24 - Usage of switch (true), an example with numeric ranges
+// Source: https://github.com/olivierloverde/minutes-of-javascript/blob/main/snippets/24-usage-of-switch-with-numeric-ranges.js
 
 // switch (true) may seem absurd but you can match against values as well as expressions. 
 // Expressions will be evaluated before matching, so any expression that evals to true will be matched.
