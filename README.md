@@ -66,6 +66,7 @@ Javascript pieces of code to make you discover new exciting features, useful tip
 22. [Array: .map() vs .filter() vs .reduce()](snippets/22-map-vs-filter-vs-reduce.js)
 23. [Generator function* and yield usage](snippets/23-generator-function-yield-usage.js)
 24. [Usage of switch (true), an example with numeric ranges](snippets/24-usage-of-switch-with-numeric-ranges.js)
+25. [Symbols: property keys without name collisions](snippets/25-symbols-property-keys-without-name-collisions.js)
 
 <!-- CONTRIBUTING -->
 ## 🌈 Contributing
