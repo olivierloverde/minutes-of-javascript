@@ -68,6 +68,7 @@ Javascript pieces of code to make you discover new exciting features, useful tip
 24. [Usage of switch (true), an example with numeric ranges](snippets/24-usage-of-switch-with-numeric-ranges.js)
 25. [Symbols: property keys without name collisions](snippets/25-symbols-property-keys-without-name-collisions.js)
 26. [The void operator](snippets/26-void-operator.js)
+27. [Using new Set() to get rid of duplicate values in array](snippets/27-set-duplicate-values-array.js)
 
 <!-- CONTRIBUTING -->
 ## 🌈 Contributing
