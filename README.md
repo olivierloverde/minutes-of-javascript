@@ -69,6 +69,7 @@ Javascript pieces of code to make you discover new exciting features, useful tip
 25. [Symbols: property keys without name collisions](snippets/25-symbols-property-keys-without-name-collisions.js)
 26. [The void operator](snippets/26-void-operator.js)
 27. [Using new Set() to get rid of duplicate values in array](snippets/27-set-duplicate-values-array.js)
+28. [Object destructuring on Array](snippets/28-object-destructuring-array.js)
 
 <!-- CONTRIBUTING -->
 ## 🌈 Contributing
